@@ -11,7 +11,7 @@ public class Libreria {
 
     public void mensajeporventana(){
 
-        JOptionPane.showInputDialog("Esto es un mensaje por ventana");
+        JOptionPane.showMessageDialog(null,"Esto es un mensaje por ventana");
     }
 
 
