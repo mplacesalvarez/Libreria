@@ -1,3 +1,5 @@
+package com.libreria;
+
 import javax.swing.*;
 
 public class Libreria {
